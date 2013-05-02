@@ -1,7 +1,7 @@
 body {
   font-family: 'Cutive Mono', serif;
   background: -webkit-linear-gradient(rgba(255, 255, 0, .75), rgba(0, 255, 0, .25)), url("http://welweb.org/ThenandNow/images/Graf-Zeppelin.jpg") fixed no-repeat;
-  background-size: auto cover;
+  background-size: cover;
   font-size: 24px;
   font-weight: bold;
 }
